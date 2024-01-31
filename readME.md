@@ -66,7 +66,9 @@ sign up to firebase: https://firebase.google.com/
 
 - give the project a name
 - click on continue to proceed
-- 2 To create fireBase project
+
+2 To create fireBase project
+
 - I accept the Google Analytics terms
 - click on 'Create project'.
 
