@@ -4,3 +4,17 @@ firebase-config.js
 /api/node_modules
 /react-frontend/node_modules
 react-frontend/src/config/firebase-config.js
+reactreact-frontend/src/config/firebase-config.js
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env
