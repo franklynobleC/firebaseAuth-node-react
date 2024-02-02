@@ -1,5 +1,6 @@
 api/config/serviceAccountKey.json
-react-auth/src/config/firebase-config.js
+
 firebase-config.js
 /api/node_modules
 /react-frontend/node_modules
+react-frontend/src/config/firebase-config.js
