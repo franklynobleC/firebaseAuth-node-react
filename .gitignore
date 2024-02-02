@@ -1,10 +1,9 @@
 api/config/serviceAccountKey.json
 
-firebase-config.js
 /api/node_modules
 /react-frontend/node_modules
 react-frontend/src/config/firebase-config.js
-reactreact-frontend/src/config/firebase-config.js
+./reactreact-frontend/src/config/firebase-config.js
 
 # testing
 /coverage
